@@ -32,3 +32,13 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# IDE metadata
+**.idea/**
+
+# Lock files
+yarn.lock
+package-lock.json
+
+#husky
+.husky/
