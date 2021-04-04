@@ -38,6 +38,7 @@ yarn-error.log*
 
 # Lock files
 yarn.lock
+package-lock.json
 
-# Json files
-places.json
+#husky
+.husky/
